@@ -1,1 +1,2 @@
-WebApplication2
+# 1.Hafta_Odevi
+1. Hafta Ödevleri
